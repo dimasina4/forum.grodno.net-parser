@@ -1,0 +1,19 @@
+{
+  "name": "web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "iconv-lite": "^0.4.19",
+    "package.json": "^2.0.1",
+    "request": "^2.83.0",
+    "windows-1251": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
